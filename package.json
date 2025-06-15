@@ -1,0 +1,8 @@
+{
+  "name": "entify-bot",
+  "version": "1.0.0",
+  "main": "modular_entify_bot.py",
+  "scripts": {
+    "start": "python3 modular_entify_bot.py"
+  }
+}
